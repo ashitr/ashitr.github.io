@@ -4,22 +4,22 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Biagio Brattoli
-    tagline: Computer Vision and Machine Learning researcher
+    name: Ashit Rai
+    tagline: Augmented Reality Developer/Enthusiast
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: biagio.brattoli@gmail.com
-    phone: 
-    website: bbrattoli.github.io/publications/ #do not add http://
-    linkedin: biagiobrattoli
-    github: bbrattoli
+    email: r.ashit18@gmail.com
+    phone: 9171891359
+    website: ashitr.github.io/ #do not add http://
+    linkedin: ashit-rai-49402b136
+    github: ashitr
     gitlab:
     bitbucket:
-    twitter: '@BiagioBrattoli'
+    twitter: '@AshitRai17'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,20 +28,20 @@ sidebar:
       - idiom: English
         level: Fluent
 
-      - idiom: Italian
+      - idiom: Hindi
         level: Native
 
-      - idiom: German
+      - idiom: Japanese
         level: Colloquial
 
     interests:
-      - item: Guitar
+      - item: Chess
         link:
 
-      - item: Basketball
+      - item: Cubing
         link:
 
-      - item: Biking
+      - item: 
         link:
 
 career-profile:
@@ -51,259 +51,254 @@ career-profile:
       I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image procession, one of the biggest research group in Germany in the field, under the supervision of Bjoern Ommer.
       Lately I successfully completed an internship at AWS in Pasadena under the supervision of Pietro Perona.
 
-news:
-    title: News
-    intro: |
+# news:
+#     title: News
+#     intro: |
         
     
-    posts:
-        - time: June 2020
-          title: Outstanding Reviewer at CVPR 2020
+#     posts:
+#         - time: June 2020
+#           title: Outstanding Reviewer at CVPR 2020
 
-        - time: June 2020
-          title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
+#         - time: June 2020
+#           title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
         
-        - time: February 2020
-          title: The work done during my internship was accepted as publication at CVPR 2020
+#         - time: February 2020
+#           title: The work done during my internship was accepted as publication at CVPR 2020
           
-        - time: July 2019
-          title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
+#         - time: July 2019
+#           title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
           
-        - time: July 2019
-          title: One paper accepted at ICCV19
+#         - time: July 2019
+#           title: One paper accepted at ICCV19
           
-        - time: January 2019
-          title: Selected as reviewer for ICCV19
+#         - time: January 2019
+#           title: Selected as reviewer for ICCV19
         
-        - time: December 2018
-          title: Selected as reviewer for CVPR19
+#         - time: December 2018
+#           title: Selected as reviewer for CVPR19
         
-        - time: Sptember 2018
-          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
+#         - time: Sptember 2018
+#           title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
         
-        - time: July 2018
-          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
+#         - time: July 2018
+#           title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
         
-        - time: 2018
-          title: Paper accepted as poster at ECCV18 in Munich, Germany
+#         - time: 2018
+#           title: Paper accepted as poster at ECCV18 in Munich, Germany
         
-        - time: 2017
-          title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
+#         - time: 2017
+#           title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
         
-        - time: 2017
-          title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
+#         - time: 2017
+#           title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
 education:
-    - degree: Applied Scientists Intern at Amazon AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 - current
+    - degree: Mathematics and Scientific Computing (B.S.)
+      university: Indian Institute of Technology, Kanpur
+      time: 2016 - current
       details: |
      
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
-      details: |
+#     - degree: PhD in Computer vision and Machine learning
+#       university: Heidelberg University
+#       time: 2015 - current
+#       details: |
 
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
+#     - degree: Internship (Master Thesis)
+#       university: Tobii
+#       time: 2014 - 2015
+#       details: |
 
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
+#     - degree: Master Degree
+#       university: KTH (Stockholm, Sweden)
+#       time: 2013 - 2015
+#       details: |
     
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
+#     - degree: Master Degree
+#       university: Politecnico di Torino (Torino, Italy)
+#       time: 2012 - 2015
+#       details: |
     
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
+#     - degree: Bachelor Degree
+#       university: Politecnico di Torino (Torino, Italy)
+#       time: 2009 - 2012
+#       details: |
 
 
-educationcomplete:
-    - degree: Applied Scientists Intern at Amazon AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 - current
-      details: |
+# educationcomplete:
+#     - degree: Applied Scientists Intern at Amazon AWS
+#       university: P. Perona, Pasadena, CA, USA
+#       time: 2019 - current
+#       details: |
 
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
-      details: |
-        Unsupervised deep learning for automatic behavior analysis
+#     - degree: PhD in Computer vision and Machine learning
+#       university: Heidelberg University
+#       time: 2015 - current
+#       details: |
+#         Unsupervised deep learning for automatic behavior analysis
 
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
+#           - Unsupervised learning
+#           - Representaion learning
+#           - Automatic Behavior Analysis
 
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+#     - degree: Internship (Master Thesis)
+#       university: Tobii
+#       time: 2014 - 2015
+#       details: |
+#         Master thesis topic Hand gesture classification by Deep learning using infrared camera 
 
-          - Deep learning
-          - Hand Gesture
+#           - Deep learning
+#           - Hand Gesture
 
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-        Master degree in Computer Science and Artificial Intelligence
+#     - degree: Master Degree
+#       university: KTH (Stockholm, Sweden)
+#       time: 2013 - 2015
+#       details: |
+#         Master degree in Computer Science and Artificial Intelligence
 
-          - Artificial Intelligence
-          - Machine Learning
-          - Computer Vision
+#           - Artificial Intelligence
+#           - Machine Learning
+#           - Computer Vision
     
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-        Master degree in Software Engineering
+#     - degree: Master Degree
+#       university: Politecnico di Torino (Torino, Italy)
+#       time: 2012 - 2015
+#       details: |
+#         Master degree in Software Engineering
     
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
+#     - degree: Bachelor Degree
+#       university: Politecnico di Torino (Torino, Italy)
+#       time: 2009 - 2012
+#       details: |
+#         Master degree in Computer Engineering
+
+
+experiences:
+    - role: Web Developer Intern
+      time: Jun'20-Jul'20
+      company: Deskera Systems
       details: |
-        Master degree in Computer Engineering
+         - Objective: To develop and merge a document creation feature from emails and send notifications to a CRM project server
+         - Developed an email fetching service in PHP and Golang to get all the emails of an account after login using Gmail API
+         - Improved the POC by adding a Query functionality using Gmail API's q parameter to set up a filter over all emails
+         - Implemented push notifications feature for updates using Watch() request in Google Cloud Pub/Sub API via Webhooks
+         - Included emails with attachments and assisted in the merging of notifications part of the project to the parent CRM project
+
+    - role: Augmented Reality Developer Intern
+      time: Nov'19-Dec'19
+      company: WowExp Technologies
+      details: |
+        - Objective: To experiment and check if a list of conceptual ideas could be realised in Augmented Reality feasibly
+        - Developed an AR Portal using Unity shaders and a locally playable foosball game using Photon for multiplayer feature 
+        - Developed a furniture demo app using ARCore SDK allowing users to place furniture on the floor in real time and visualize
+        - Designed an algorithm in C# to calculate the tracked plane$’$s dimensions and used it to incorporate vertical plane detection
+        - Developed an AR Salon in SparkAR using face tracker to mount wigs, goggles and makeup on the detected face for try-out
+
+    - role: Augmented Reality Developer Intern
+      time: May'19-July'19
+      company: Transcendent Digitech Solutions
+      details: |
+        - Objective: To develop an E-Learning Android application in Augmented Reality to help students with hard concepts
+        - Developed an app TipiT using Google Sceneform API to augment custom built 3D models taken as input in realtime
+        -Led a group of 3 interns to make an app Kautuk to assist students in visualising hard concepts using Google ARCore
+        - Developed a markerless Web AR POC using Three.js and used Firebase for the Database and Authentication of TipiT
+
+projects:
+    title: Projects
+    intro: >
+      All self and Course projects
+
+    assignments:
+      - title: Network Data Science with NetworkX in Python
+        link: "#hook"
+        tagline: "Analysed and visualised network centrality on a sample network and randomly generated social networks and other graphs"
+
+      - title: Understanding Deepfakes wiht Keras
+        link: "#"
+        tagline: "Implemented a Deep Convolutional Generative Adversarial Network (DCGAN) in Keras to generate artificial images similar to handwritten 0 from MNIST dataset"
+
+      - title: Real Time OCR and Text detection
+        link: "#"
+        tagline: "Trained a Tensorflow CNN  model to recognize relevant areas of  text in any image and generat text output using Google's OCR software and pytesseract"
+
+      - title: From NAND to Tetris: Hardware and Software
+        link: "#"
+        tagline: "Developed a general purpose computer (HACK) starting from NAND Gate to ALU & memory to Assembler using HDL.
+                    Implemented a virtual machine and a compiler for JACK, a java like OOP language over the hardware platform (HACK)
+                    Developed a basic operating system that closes gaps between the high-level language and the underlying hardware platform"
+
+      - title: Web Application Security Testing with Burp Suite
+        link: "#"
+        tagline: "Successfully circumvented DVWA's and OWASP Mutillidae's vulnerabilities using Burp Suite proxy and a repeater by sniffing and altering credentials and used dictionary attacks to brute force as admin"
+
+      - title: Simultaneous Localization and Mapping
+        link: "#"
+        tagline: "Developed a SLAM POC library and implemented object detection to detect  planar surfaces using 2D \& 3D sensors"
 
 
-#experiences:
-    #- role: Lead Developer
-      #time: 2015 - Present
-      #company: Startup Hubs, San Francisco
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        #error sit voluptatem accusantium doloremque laudantium, totam rem
-        #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        #architecto beatae vitae dicta sunt explicabo.
-
-          #- Bullet point
-          #- Bullet point
-
-    #- role: Senior Software Engineer
-      #time: 2014 - 2015
-      #company: Google, London
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
-
-          #- Bullet point
-          #- Bullet point
-
-    #- role: UI Developer
-      #time: 2012 - 2014
-      #company: Amazon, London
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
-
-          #- Bullet point
-          #- Bullet point
-
-#projects:
-    #title: Projects
-    #intro: >
-      #You can list your side projects or open source libraries in this
-      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    #assignments:
-      #- title: Velocity
-        #link: "#hook"
-        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      #- title: DevStudio
-        #link: "#"
-        #tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      #- title: Tempo
-        #link: "#"
-        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      #- title: Atom
-        #link: "#"
-        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      #- title: Delta
-        #link: "#"
-        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
+      - title: Encrypted Dropbox : Computer Systems Security
+        link: "#"
+        tagline: "Implemented a cryptographically secure, encrypted and authenticated file storage server given a maliscious storage server and a trusted public key server"
+        
+      - title: Student Voting System using Blockchain
+        link: "#"
+        tagline: "Developed a Decentralised voting System on Ethereum Blockchain with no central authority and designed a Voter Identity Randomization Algorithm to send votes incognito to MySQL database and held a demo election"
+        
+        
+        
+# publications:
+#     title: Publications
+#     intro: |
       
 
-    papers:
-      - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
-        authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
-        conference: CVPR, 2020
+#     papers:
+#       - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
+#         authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
+#         conference: CVPR, 2020
         
-      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-        authors: B. Brattoli*, K. Roth*, B. Ommer
-        conference: ICCV, 2019
+#       - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
+#         authors: B. Brattoli*, K. Roth*, B. Ommer
+#         conference: ICCV, 2019
 
-      - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
-        authors: B. Brattoli*, U. Buechler*, B. Ommer
-        conference: ECCV, 2018
+#       - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
+#         authors: B. Brattoli*, U. Buechler*, B. Ommer
+#         conference: ECCV, 2018
 
-      - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
-        authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
-        conference: CVPR, 2017
+#       - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
+#         authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
+#         conference: CVPR, 2017
 
-      - title: "Cross and Learn: Cross-Modal Self-Supervision"
-        authors: N. Sayer, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
+#       - title: "Cross and Learn: Cross-Modal Self-Supervision"
+#         authors: N. Sayer, B. Brattoli, B. Ommer
+#         conference: oral at GCPR, 2018
 
-      - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
-        authors: O. Blum, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
+#       - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
+#         authors: O. Blum, B. Brattoli, B. Ommer
+#         conference: oral at GCPR, 2018
 
-      - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
-        authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
-        conference: "Nature Communications, 2017"
+#       - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
+#         authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
+#         conference: "Nature Communications, 2017"
         
-      - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
-        authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
-        conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
+#       - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
+#         authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
+#         conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        level: 100%
-
-      - name: PyTorch
-        level: 90%
-
-      - name: Tensorflow
-        level: 60%
-
-      - name: Caffe
-        level: 80%
-
-      - name: Matlab
-        level: 90%
-
       - name: C/C++
-        level: 75%
+        level: 98%
+
+      - name: Unity
+        level: 90%
+
+      - name: GoLang
+        level: 80%
+        
+      - name: Python
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
