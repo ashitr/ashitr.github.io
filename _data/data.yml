@@ -233,7 +233,7 @@ projects:
 
       - title: Simultaneous Localization and Mapping
         link: "#"
-        tagline: "Developed a SLAM POC library and implemented object detection to detect  planar surfaces using 2D \& 3D sensors"
+        tagline: "Developed a SLAM POC library and implemented object detection to detect  planar surfaces using 2D & 3D sensors"
 
 
       - title: Encrypted Dropbox : Computer Systems Security
