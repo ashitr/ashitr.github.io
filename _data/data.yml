@@ -47,9 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
-      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image procession, one of the biggest research group in Germany in the field, under the supervision of Bjoern Ommer.
-      Lately I successfully completed an internship at AWS in Pasadena under the supervision of Pietro Perona.
+      Aspiring graduate with a solid foundation in algorithms, networks and systems design, who is passionate about writing efficient code, solving challenging problems, and learning new technologies.
 
 # news:
 #     title: News
@@ -205,8 +203,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      All self and Course projects
+    intro: 
 
     assignments:
       - title: Network Data Science with NetworkX in Python
@@ -300,5 +297,5 @@ skills:
       - name: Python
         level: 70%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
