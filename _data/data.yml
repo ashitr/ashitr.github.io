@@ -221,7 +221,7 @@ projects:
         link: "#"
         tagline: "Trained a Tensorflow CNN  model to recognize relevant areas of  text in any image and generat text output using Google's OCR software and pytesseract"
 
-      - title: From NAND to Tetris: Hardware and Software
+      - title: From NAND to Tetris Hardware and Software
         link: "#"
         tagline: "Developed a general purpose computer (HACK) starting from NAND Gate to ALU & memory to Assembler using HDL.
                     Implemented a virtual machine and a compiler for JACK, a java like OOP language over the hardware platform (HACK)
@@ -236,7 +236,7 @@ projects:
         tagline: "Developed a SLAM POC library and implemented object detection to detect  planar surfaces using 2D & 3D sensors"
 
 
-      - title: Encrypted Dropbox : Computer Systems Security
+      - title: Encrypted Dropbox Computer Systems Security
         link: "#"
         tagline: "Implemented a cryptographically secure, encrypted and authenticated file storage server given a maliscious storage server and a trusted public key server"
         
