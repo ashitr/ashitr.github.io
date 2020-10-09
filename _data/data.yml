@@ -209,37 +209,37 @@ projects:
     intro: 
 
     assignments:
-        - title: From NAND to Tetris Hardware and Software
+    - title: From NAND to Tetris Hardware and Software
         link: "#"
         tagline: "Developed a general purpose computer (HACK) starting from NAND Gate to ALU & memory to Assembler using HDL.
                     Implemented a virtual machine and a compiler for JACK, a java like OOP language over the hardware platform (HACK)
                     Developed a basic operating system that closes gaps between the high-level language and the underlying hardware platform"
                     
-        - title: Encrypted Dropbox Computer Systems Security
+    - title: Encrypted Dropbox Computer Systems Security
         link: "#"
         tagline: "Implemented a cryptographically secure, encrypted and authenticated file storage server given a maliscious storage server and a trusted public key server"
         
-        - title: Student Voting System using Blockchain
+    - title: Student Voting System using Blockchain
         link: "#"
         tagline: "Developed a Decentralised voting System on Ethereum Blockchain with no central authority and designed a Voter Identity Randomization Algorithm to send votes incognito to MySQL database and held a demo election"
       
-        - title: Understanding Deepfakes wiht Keras
+    - title: Understanding Deepfakes wiht Keras
         link: "#"
         tagline: "Implemented a Deep Convolutional Generative Adversarial Network (DCGAN) in Keras to generate artificial images similar to handwritten 0 from MNIST dataset"
 
-        - title: Real Time OCR and Text detection
+    - title: Real Time OCR and Text detection
         link: "#"
         tagline: "Trained a Tensorflow CNN  model to recognize relevant areas of  text in any image and generat text output using Google's OCR software and pytesseract"
    
-        - title: Web Application Security Testing with Burp Suite
+    - title: Web Application Security Testing with Burp Suite
         link: "#"
         tagline: "Successfully circumvented DVWA's and OWASP Mutillidae's vulnerabilities using Burp Suite proxy and a repeater by sniffing and altering credentials and used dictionary attacks to brute force as admin"
 
-        - title: Network Data Science with NetworkX in Python
+    - title: Network Data Science with NetworkX in Python
         link: "#hook"
         tagline: "Analysed and visualised network centrality on a sample network and randomly generated social networks and other graphs"
         
-        - title: Simultaneous Localization and Mapping
+    - title: Simultaneous Localization and Mapping
         link: "#"
         tagline: "Developed a SLAM POC library and implemented object detection to detect  planar surfaces using 2D & 3D sensors"
 
