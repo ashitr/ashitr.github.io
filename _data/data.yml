@@ -237,7 +237,7 @@ projects:
 
     assignments:
     - title: From NAND to Tetris Hardware and Software
-      link: "#"
+      link: "pdf/160166_1 (9).pdf"
       tagline: "Developed a general purpose computer (HACK) starting from NAND Gate to ALU & memory to Assembler using HDL.
       Implemented a virtual machine and a compiler for JACK, a java like OOP language over the hardware platform (HACK)
       Developed a basic operating system that closes gaps between the high-level language and the underlying hardware platform"
